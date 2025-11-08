@@ -1,0 +1,35 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Guru Psychics</title>
+<description>Latest updates</description>
+<language>en</language>
+<!--  macOS Release  -->
+<item>
+<title>Version 1.0.0</title>
+<sparkle:version>2</sparkle:version>
+<sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+<pubDate>Fri, 31 Oct 2025 21:30:00 +0530</pubDate>
+<enclosure 
+        url="https://www.gurupsychics.com/dist/1.0.0/GuruPsychics-1.0.0-macos.zip" 
+        sparkle:os="macos" 
+        length="68474417" 
+        type="application/octet-stream"
+        sparkle:edSignature="rtTTBIVk9YL3vErszjWA/8xJ6y4FxBGAWxX9TjZ7PzZQX5OwZPzAB/FM1G7mMivY9rAqrgibS/OKA1nLMoiXAA=="
+      />
+</item>
+<!--  Windows Release - Signed Installer  -->
+<item>
+<title>Version 1.0.1</title> 
+<sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>10.0.0</sparkle:minimumSystemVersion>
+<pubDate>Thu, Nov 06 22:56:04 2025 +0530</pubDate>
+<enclosure 
+        url="https://www.gurupsychics.com/dist/1.0.1/GuruPsychics-1.0.1-Setup.exe" 
+        sparkle:os="windows" 
+        length="14037184" 
+        type="application/octet-stream"
+             />
+</item>
+</channel>
+</rss>	
