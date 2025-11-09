@@ -21,7 +21,7 @@
 <!--  Windows Release - Signed Installer  -->
 <item>
 <title>Version 1.0.1</title> 
-<sparkle:version>1.0.1</sparkle:version>
+<sparkle:version>1.0.2</sparkle:version>
 <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
 <sparkle:minimumSystemVersion>10.0.0</sparkle:minimumSystemVersion>
 <pubDate>Thu, Nov 06 22:56:04 2025 +0530</pubDate>
